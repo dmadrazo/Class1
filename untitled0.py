@@ -14,3 +14,5 @@ for i in a:
       b.append(i*2)
       
 print(b)
+
+print(a)
